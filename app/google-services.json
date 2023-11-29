@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534933383467",
+    "project_id": "tugas-asdos-13",
+    "storage_bucket": "tugas-asdos-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534933383467:android:1c35826936632eaad53d6e",
+        "android_client_info": {
+          "package_name": "com.example.tugasasdos13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8p3LsgPzBEFQZId5H3_NshfluuboAOaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
